@@ -80,8 +80,17 @@ The branch name can be found in the pull request in the comment section of the t
 
 ## Frequently Asked Questions (FAQ for testers)
 
-### How to clone a repository?
+### Which repository I need to clone and what is the branch?
 
-First, you must locate the `SSH` URL of the repository. You can find this in the repository's GitHub page, usually under a green button labeled "Code".
+First, you need to navigate to the task in Click Up. Then in the comments section, you'll see the PR (pull request) made by the developer.
 
-![image](./docs/img/repository-remote.png)
+![PR Comment](./docs/img/pr-comment.png)
+
+Click on the PR link to open the PR. In the PR, you'll see the branch name in the top left corner of the page. Also, you can see the link to the repository in the top right corner of the page.
+
+![Copy Branch Naame](./docs/img/repository-and-branch.png)
+
+Click on the repository link to see the repository URL:
+
+![Repository URL](./docs/img/repository-remote.png)
+
