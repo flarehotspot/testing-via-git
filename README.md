@@ -70,3 +70,11 @@ git checkout [branch name]
 ```
 
 The branch name can be found in the pull request in the comment section of the task in Click Up.
+
+## Frequently Asked Questions (FAQ for testers)
+
+### How to clone a repository?
+
+First, you must locate the `SSH` URL of the repository. You can find this in the repository's GitHub page, usually under a green button labeled "Code".
+
+![image](./docs/img/repository-remote.png)
