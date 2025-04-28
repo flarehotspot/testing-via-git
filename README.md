@@ -28,6 +28,8 @@ From here, you can do any of the following to check for new branch and new updat
 `git reset --hard` - to fix errors in the current branch
 `git clean -f` - also fix errors in the current branch
 
+---
+
 ## Testing a new branch in the core system
 
 To test new branch in the core system, first navigate to the `flarehotspot` directory:
@@ -51,7 +53,9 @@ git checkout [name of the branch]
 The branch name can be found in the pull request (PR) in the comment section of the task in Click Up.
 
 Then restart the server (make command).
-# Testing a plugin
+
+## Testing a plugin
+---
 
 To test a new plugin, clone the repository of the plugin to `flarehotspot/plugins/local`. For example, the repository of the plugin is `git@github.com:flarehotspot/com.flarego.basic-system-account.git`:
 
@@ -70,6 +74,8 @@ git checkout [branch name]
 ```
 
 The branch name can be found in the pull request in the comment section of the task in Click Up.
+
+---
 
 ## Frequently Asked Questions (FAQ for testers)
 
