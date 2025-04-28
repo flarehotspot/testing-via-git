@@ -54,8 +54,9 @@ The branch name can be found in the pull request (PR) in the comment section of 
 
 Then restart the server (make command).
 
-## Testing a plugin
 ---
+
+## Testing a plugin
 
 To test a new plugin, clone the repository of the plugin to `flarehotspot/plugins/local`. For example, the repository of the plugin is `git@github.com:flarehotspot/com.flarego.basic-system-account.git`:
 
