@@ -19,14 +19,14 @@ cd ~/flarehotspot
 
 From here, you can do any of the following to check for new branch and new updates to the core system codes:
 
-`git fetch` - to fetch new created branches
-`git branch` - to show the current and local branches
-`git branch -a` - to show current, local and remote branches
-`git pull` - to pull the new updated codes from the remote origin branch to the local branch
-`git checkout [branch name]` - to change to a new branch
-`git status` - to check for any errors in the current branch
-`git reset --hard` - to fix errors in the current branch
-`git clean -f` - also fix errors in the current branch
+- `git fetch` - to fetch new created branches
+- `git branch` - to show the current and local branches
+- `git branch -a` - to show current, local and remote branches
+- `git pull` - to pull the new updated codes from the remote origin branch to the local branch
+- `git checkout [branch name]` - to change to a new branch
+- `git status` - to check for any errors in the current branch
+- `git reset --hard` - to fix errors in the current branch
+- `git clean -f` - also fix errors in the current branch
 
 ---
 
